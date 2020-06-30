@@ -1,0 +1,21 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.name-high{
+    color: tomato;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    text-align: justify;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
